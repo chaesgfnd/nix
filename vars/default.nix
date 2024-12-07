@@ -1,9 +1,9 @@
 {lib}: {
   # # useful to have these default for servers. When sharing the config with someone else for use as main desktop, should just be overriding.
   username = "v";
-  userFullName = "Valera";
-  defaultUsername = "valeratrades";
-  userEmail = "v79166789533@gmail.com";
+  userFullName = "maria";
+  defaultUsername = "chaesgfnd";
+  userEmail = "m79160164445@gmail.com";
   #
 
   #TODO: networking. Albeit right now it doesn't have much merrit, as I don't have even one server with nix. Just people's configs.

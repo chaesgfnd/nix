@@ -475,7 +475,7 @@ in {
 
   #MOVE: make specific to each host
   imports = [
-    ../../hosts/v_laptop/hardware-configuration.nix
+    ../../hosts/m_laptop/hardware-configuration.nix
   ];
   ##hardware.enableAllFirmware = true;
 
